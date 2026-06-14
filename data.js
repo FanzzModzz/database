@@ -1,5 +1,0 @@
-{
-  "tokens": [
-    "8654296970:AAEkPleJLCP36zf9-wpsuAcETUc6C8ahcIo
-  ]
-}
